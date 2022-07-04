@@ -1,0 +1,101 @@
+body{
+    font-family: font-family: 'Gulzar', serif;
+    margin: 0;
+}
+h1 {
+    font-size: 50px;
+}
+
+
+.design {
+    color: orange;
+}
+
+
+.section {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+
+.first-info {
+    width: 50%;
+    padding-left: 2%;
+}
+
+
+.first-info img {
+    width: 80%;
+}
+
+
+.text-design {
+    text-align: justify;
+}
+
+
+.link-button {
+    text-decoration: none;
+    color: cornsilk;
+    background-image: linear-gradient(rgb(240, 170, 145), tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+
+.section-1 {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+
+.section-2 {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+.year-design {
+    color: orange;
+}
+
+
+.heading {
+    font-size: 40px;
+}
+
+
+.box-shadow {
+    width: 40%;
+    box-shadow: 10px 10px 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+
+.section-3 {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
+#border-image {
+    border-left: 7px solid;
+    border-image: linear-gradient(#f8747b, tomato);
+    border-image-slice: 1;
+}
+
+#border-design {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
+}
